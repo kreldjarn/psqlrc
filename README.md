@@ -1,5 +1,12 @@
 # psqlrc
 
+
+Put this in your pipe and smoke it.
+
+No wait, actually, put this in `~/.psqlrc`
+
+
+
 ```
 -- Formatting for tables
 \x auto
